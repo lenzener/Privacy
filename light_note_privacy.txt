@@ -1,0 +1,55 @@
+# 隐私政策 / Privacy Policy
+
+## 中文版本
+
+### 1. 信息收集
+Light Note（以下简称"本应用"）是一款注重用户隐私的本地便签应用。我们不会收集、存储或传输任何个人数据到外部服务器。
+
+### 2. 本地存储
+所有便签数据均存储在您的设备本地，使用系统提供的安全存储机制。除非您主动启用云同步功能，否则数据不会离开您的设备。
+
+### 3. 权限使用
+本应用仅请求运行所必需的系统权限：
+- 文件访问权限：仅用于读取和保存您的便签数据
+- 无网络访问权限：默认情况下不连接互联网
+
+### 4. 数据安全
+我们采用系统级加密保护您的便签内容，确保数据安全。
+
+### 5. 第三方服务
+本应用不集成任何第三方分析、广告或追踪服务。
+
+### 6. 政策变更
+我们保留更新本隐私政策的权利。任何重大变更将通过应用内通知或网站公告告知用户。
+
+### 7. 联系方式
+如有任何隐私相关问题，请通过以下方式联系我们：
+- 邮箱：[lenzener@qq.com]
+
+---
+
+## English Version
+
+### 1. Information Collection
+Light Note ("the App") is a privacy-focused local note-taking application. We do not collect, store, or transmit any personal data to external servers.
+
+### 2. Local Storage
+All note data is stored locally on your device using secure system storage mechanisms. Data will not leave your device unless you actively enable cloud synchronization features.
+
+### 3. Permission Usage
+The app only requests system permissions necessary for operation:
+- File access permission: Only used to read and save your note data
+- No network access permission: Does not connect to the internet by default
+
+### 4. Data Security
+We use system-level encryption to protect your note content and ensure data security.
+
+### 5. Third-Party Services
+This app does not integrate any third-party analytics, advertising, or tracking services.
+
+### 6. Policy Changes
+We reserve the right to update this privacy policy. Any significant changes will be notified to users through in-app notifications or website announcements.
+
+### 7. Contact Information
+If you have any privacy-related questions, please contact us through the following methods:
+- Email: [lenzener@qq.com]

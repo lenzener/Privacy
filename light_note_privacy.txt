@@ -3,7 +3,7 @@
 ## 中文版本
 
 ### 1. 信息收集
-Light Note（以下简称"本应用"）是一款注重用户隐私的本地便签应用。我们不会收集、存储或传输任何个人数据到外部服务器。
+Hu Note（以下简称"本应用"）是一款注重用户隐私的本地便签应用。我们不会收集、存储或传输任何个人数据到外部服务器。
 
 ### 2. 本地存储
 所有便签数据均存储在您的设备本地，使用系统提供的安全存储机制。除非您主动启用云同步功能，否则数据不会离开您的设备。
@@ -24,14 +24,14 @@ Light Note（以下简称"本应用"）是一款注重用户隐私的本地便�
 
 ### 7. 联系方式
 如有任何隐私相关问题，请通过以下方式联系我们：
-- 邮箱：[lenzener@qq.com]
+- 邮箱：[apprank@outlook.com]
 
 ---
 
 ## English Version
 
 ### 1. Information Collection
-Light Note ("the App") is a privacy-focused local note-taking application. We do not collect, store, or transmit any personal data to external servers.
+Hu Note ("the App") is a privacy-focused local note-taking application. We do not collect, store, or transmit any personal data to external servers.
 
 ### 2. Local Storage
 All note data is stored locally on your device using secure system storage mechanisms. Data will not leave your device unless you actively enable cloud synchronization features.
@@ -52,4 +52,4 @@ We reserve the right to update this privacy policy. Any significant changes will
 
 ### 7. Contact Information
 If you have any privacy-related questions, please contact us through the following methods:
-- Email: [lenzener@qq.com]
+- Email: [apprank@outlook.com]
